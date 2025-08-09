@@ -1,6 +1,6 @@
 Playtest Modpack License Agreement
 
-This project ("Modpack") is provided by Gingerone87 solely for the purpose of private playtesting.
+This project ("Modpack") is provided by Gingerone87 solely for the purpose of private playtesting during dedicated events on the official Discord server.
 
 By downloading, installing, or using this Modpack, you agree to the following terms:
 
