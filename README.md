@@ -3,34 +3,19 @@
 The First Person Shooter Minecraft Project
 
 Block Ops is a fast-paced, tactical FPS experience built inside Minecraft. It combines smooth movement mechanics, immersive gunplay, and unique environments — all without leaving your favorite blocky world.
-# 📖 Table of Contents
-
-#About
-
-#Features
-
-#Why
-
-#How It Works
-
-#Installation
-
-#License
-
-#Links
 
 # About
 
 Block Ops transforms Minecraft into a competitive FPS playground. Whether it’s a fast duel in a custom arena or completing a skill-based training course, Block Ops brings combat mechanics that feel right at home yet completely new.
 Features
 
-⚡ Smooth movement – sprinting, crawling, leaning, and more.
+ Smooth movement – sprinting, crawling, leaning, and more.
+ 
+ Gunplay that feels good – recoil, reloads, and satisfying sound effects.
+ 
+ Tutorial & Shooting Range – learn mechanics before hitting real matches.
 
-🔫 Gunplay that feels good – recoil, reloads, and satisfying sound effects.
-
-🎯 Tutorial & Shooting Range – learn mechanics before hitting real matches.
-
-🗺 Custom maps – designed for FPS gameplay, not just survival.
+ Custom maps – designed for FPS gameplay, not just survival.
 
 # Why
 
