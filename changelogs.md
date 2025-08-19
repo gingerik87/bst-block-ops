@@ -27,8 +27,6 @@ all of "[TACZ] Daffa's arsenal addon" guns had been added to the assets, none ca
 #
 ### 0.1.3
 
-0.1.3 changelog
-
 Loadout System: Started working on attachment management.
 
 Added game mode categories menu (Arcade, Tactical, Train Camp)
