@@ -51,7 +51,7 @@ Train Camp (soon playable)
 ### 0.1.4
 
 Added
-Training Camp map (now playable).
+Training Camp map (now playable) (map created by https://github.com/LatviaKiegelis, thank you <3).
 
 Renamed
 gamemode "1 vs 1 Arcade" to "Duel Arcade".
