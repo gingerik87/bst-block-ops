@@ -48,3 +48,42 @@ Train Camp (soon playable)
 #
 
 #
+### 0.1.4
+
+Added
+Training Camp map (now playable).
+
+Renamed
+gamemode "1 vs 1 Arcade" to "Duel Arcade".
+gamemode category " Train Camp" to "Training Camp".
+
+Removed
+
+gamemode "1 vs 1 Tactical"
+
+
+Loadout system:
+
+Added
+gun tooltips to all guns in Loadout menu.
+gun tags/types to all avaible guns
+
+-- tags/types:
+
+--- AR for Assault Rifles
+--- SMG for SMGs
+--- Shotgun for shotguns
+--- Sniper for snipers
+
+
+Removed
+gun from avaiable guns, still present in game/assets: name: "ssg69", tag/type: sniper,    from          gun pack: daffa's arsenal.
+
+Attachment managment: Coming (not very) soon...
+
+
+Guys, ill soon (probably in the next few updates) start working on an actual match system and compatibility beetween the offline Loadout system and the online/multiplayer one. The first game mode i will probably be working on is Duel Arcade. 
+Im not sure if ill release the pack with just the Training Camp (just an offline map)
+#
+
+#
