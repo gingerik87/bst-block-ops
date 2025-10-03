@@ -11,7 +11,7 @@ You may:
 
 You may not:
 
-- Redistribute the mod’s files in any form, modified or unmodified.
+- Redistribute the mod’s files in any form, modified or unmodified (most mod authors' policy).
 
 - Include Block Ops in any modpack without written permission.
 
