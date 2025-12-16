@@ -71,9 +71,9 @@ gun tags/types to all avaible guns
 -- tags/types:
 
 --- AR for Assault Rifles
---- SMG for SMGs
---- Shotgun for shotguns
---- Sniper for snipers
+--- SMG for Short Mag Guns
+--- Shotgun for Shotguns
+--- Sniper for Snipers
 
 
 Removed
