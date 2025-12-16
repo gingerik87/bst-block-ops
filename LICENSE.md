@@ -7,13 +7,13 @@ You may:
 
 - Stream or record gameplay for non-commercial or monetized content (e.g., YouTube, Twitch).
 
--  Share links to the official download page.
+- Share links to the official download page.
 
 You may not:
 
 - Redistribute the mod’s files in any form, modified or unmodified (most mod authors' policy).
 
-- Include Block Ops in any modpack without written permission.
+- Include Block Ops content in any modpack without written permission.
 
 - Modify, extract, or reuse assets/code from Block Ops.
 
